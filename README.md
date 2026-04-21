@@ -86,6 +86,7 @@ Explains why each UI decision was made.
 ### Backend
 - Node.js
 - Express
+- MongoDB
 
 ## Example Prompt
 Create an admin dashboard with sidebar navigation,
